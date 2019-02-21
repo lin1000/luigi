@@ -1,0 +1,1 @@
+python -m luigi --module 003_crawl_ppt_cc_beauty --name ProcessImage luigi_task

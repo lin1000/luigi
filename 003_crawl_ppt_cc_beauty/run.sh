@@ -1,0 +1,1 @@
+python luigi_task.py --scheduler-host localhost ProcessImage --name TonyBeauty

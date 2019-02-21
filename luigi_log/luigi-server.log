@@ -1,0 +1,4 @@
+2018-07-21 21:23:31,168 luigi.server[61723] INFO: Scheduler instance shutting down
+2018-07-21 21:23:31,176 luigi.scheduler[61723] INFO: Saved state in ./luigi_state
+2018-07-21 21:23:31,178 luigi.server[61723] INFO: Scheduler instance shutting down
+2018-07-21 21:23:31,178 luigi.scheduler[61723] INFO: Saved state in ./luigi_state
